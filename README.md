@@ -1,1 +1,1 @@
-# HR_Analytics_Atliq
+# HR Analytics project for Atliq Technologies using excel & powerbi 
